@@ -12,6 +12,6 @@
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "kubernetes-client": "^6.8.3",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   }
 }
